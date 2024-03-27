@@ -1,0 +1,55 @@
+body {
+    background-color: white;
+    color: black;
+}
+
+.cabeca {
+    background-color: darkslateblue;
+    color: hotpink;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.corpo {
+    text-align: left;
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.mp3 {
+    background-color: darkmagenta;
+    border-radius: 20px;
+    text-align: center;
+    margin: auto;
+    width: auto;
+    height: auto;
+
+}
+
+.imgagem {
+    background-color: rgba(163, 163, 163, 0.493);
+    border-radius: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(83, 9, 221);
+
+
+}
+
+.video {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.fim {
+    background-color: black;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    color: red;
+    border-radius: 20px;
+    text-align: center;
+    display: block;
+    width: auto;
+}
